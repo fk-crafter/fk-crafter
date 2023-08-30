@@ -1,1 +1,1 @@
-👋 Hi 👋, I’m Fowad Khan
+Hi 👋, I’m Fowad Khan
