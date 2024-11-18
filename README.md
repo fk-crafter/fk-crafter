@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **All you need**
 
-- 👨‍💻 All of my projects are available at [👷🏻‍♂️🔨🚧](👷🏻‍♂️🔨🚧)
+- 👨‍💻 All of my projects are available at : [👷🏻‍♂️🔨🚧](👷🏻‍♂️🔨🚧)
 
 - 📫 How to reach me **fowad.web@outlook.fr**
 
