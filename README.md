@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fowad</h1>
+<h1 align="center">Hi 👋🏼, I'm Fowad</h1>
 <h3 align="center">A passionate frontend developer from Paris</h3>
 
 - 🔭 I’m currently working on **Everything you need**
