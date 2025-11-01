@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋🏼, I'm Fowad</h1>
 <h3 align="center">A passionate frontend developer from Paris</h3>
 
-- 🔭 I’m currently working on **Everything you need**
+🔭 I’m currently working on **Everything you need**
 
-- 👨‍💻 All of my projects are available at : https://fk-crafter-portfolio.vercel.app/
+👨‍💻 All of my projects are available at : https://fk-crafter-portfolio.vercel.app/
 
-- 📫 How to reach me **fowad.web@outlook.fr**
+📫 How to reach me **fowad.web@outlook.fr**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
