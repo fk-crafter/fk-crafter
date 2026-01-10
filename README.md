@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on **Everything you need**
 
-👨‍💻 All of my projects are available at : https://fk-crafter-portfolio.vercel.app/
+👨‍💻 All of my projects are available at : https://fk-crafter.vercel.app
 
 📫 How to reach me **fowad.web@outlook.fr**
 
