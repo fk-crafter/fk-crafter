@@ -22,4 +22,4 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
 </p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=fk-crafter&theme=dark" alt="GitHub Streak" /></a>
+![](https://nirzak-streak-stats.vercel.app/?user=fk-crafter&theme=dark&hide_border=false)
