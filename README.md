@@ -22,5 +22,5 @@
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=fk-crafter&theme=dark&hide_border=false" alt="My GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=fk-crafter&theme=dark&hide_border=false" alt="My GitHub Streak" />
 </p>
